@@ -3,7 +3,7 @@ Tutorial on how to configure tensorflow with GPU on linux mint.
 ## Install environment
 ### Install anaconda
 Download .sh file [here](https://www.anaconda.com/products/distribution).  
-install with `bash name.sh`.  
+Install with `bash name.sh`.  
 
 ### Install spyder
 `conda install spyder`
